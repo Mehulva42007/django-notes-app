@@ -30,5 +30,4 @@ Install Nginx reverse proxy to make this application available
 `sudo apt-get update`
 `sudo apt install nginx`
 =======
-# django-notes-app
->>>>>>> 47c289e59e317c8a7797137575db85ea9f30fa4e
+
